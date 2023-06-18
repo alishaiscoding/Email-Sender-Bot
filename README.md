@@ -6,4 +6,5 @@ Mailgun API is a tool provided by Mailgun that allows developers to send and rec
 
 
 Why did I build it?
+
 I created an email sender bot for my first job, automating thank you emails to customers and saving valuable time. In my second job as a teaching assistant, I utilized the bot to send timely notifications to parents about deadlines, streamlining communication. The bot proved versatile and efficient in both roles, enhancing operations and improving customer and parent satisfaction.
